@@ -1,7 +1,5 @@
 # Recurrent Neural Networks (RNN) & LSTM — Technical Q&A
 
-A curated, de-duplicated and technically validated Q&A on **Vanilla RNNs, Bidirectional RNNs, Stacked RNNs, BPTT and LSTMs**, compiled from a live lecture discussion. Every answer is kept to 4–5 lines.
-
 **Notation used throughout**
 
 | Symbol | Meaning |
