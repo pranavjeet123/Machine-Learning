@@ -1,6 +1,6 @@
 # Transfer Learning & Deployment — Technical Q&A Reference
 
-A consolidated, topic-wise reference of questions and answers from a technical session on transfer learning, domain adaptation, model optimization, and deployment.
+A consolidated, topic-wise reference of questions and answers on transfer learning, domain adaptation, model optimization, and deployment.
 
 ---
 
