@@ -190,5 +190,4 @@ From a security standpoint, especially involving national/government contexts, u
 ---
 
 ## Notes
-- This document is a cleaned, anonymized, and topic-organized summary derived from a live Q&A session on transfer learning and model deployment.
-- Speaker and questioner names have been removed; content is presented as generalized technical Q&A for reference purposes.
+- Prepared by Pranavjeet Mishra
